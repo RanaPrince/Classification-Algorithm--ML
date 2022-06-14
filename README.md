@@ -1,8 +1,12 @@
 # Classification-Algorithm--ML
-Use of Gradient Boosting Descision Trees for a Classification Problem
+Use of Machine Learning ALgorithms for Classification:
+
+- Gradient Boosted Decision Tree
+- Descision Tree
+- Logistic Regression
 
 
-On the Kaggle problem for DOnors choose Data, Gradient Boosted Descision Trees are used for the best efficiency and performance metrics.
+On the Kaggle problem for Donors choose Data, Gradient Boosted Descision Trees are used for the best efficiency and performance metrics.
 
 
 Data From : [https://www.kaggle.com/c/donorschoose-application-screening]
@@ -19,6 +23,13 @@ Used 3 algorithms here to counter the Classification problem:
 - Logistic Regression
 - Descision Trees
 - Gradient Boosted Descision Trees
+
+**Cross Validation**
+(Cross-validation is a technique for validating the model efficiency by training it on the subset of input data and testing on previously unseen subset of the input data)
+
+- Grid Search CV
+- Random Search CV
+
 
 **For Descision Trees and Logistic Regression**
 
