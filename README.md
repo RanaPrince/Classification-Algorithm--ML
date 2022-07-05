@@ -25,7 +25,7 @@ Used 3 algorithms here to counter the Classification problem:
 - Gradient Boosted Descision Trees
 
 **Cross Validation**
-(Cross-validation is a technique for validating the model efficiency by training it on the subset of input data and testing on previously unseen subset of the input data)
+(Cross-validation is a technique for determining the best parameter values before we set the final for out model training by training it on the subset of input data and testing on previously unseen subset of the input data)
 
 - Grid Search CV
 - Random Search CV
